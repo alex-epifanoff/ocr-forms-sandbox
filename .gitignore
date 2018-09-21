@@ -1,0 +1,7 @@
+.vscode
+results
+tessdata
+a.out
+*.mp4
+**/*.o
+**/*.a
